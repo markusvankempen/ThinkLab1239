@@ -1,1 +1,2 @@
 added
+Nodte:  remove the macos file in the zip ip -d jfk*.zip __MACOSX/\*
