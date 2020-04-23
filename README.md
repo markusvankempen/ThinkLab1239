@@ -9,4 +9,5 @@ In this lab, attendees will use a the Raspberry Pi, some temperature sensors and
 Note: The lab maybe changed slidly form the orginal scope due to the current situation 
 
 Please follow the setup instructions. 
+https://github.com/markusvankempen/ThinkLab1239/blob/master/labsetup.md
 
