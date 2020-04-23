@@ -1,4 +1,6 @@
-### LAB Setup instructions
+<img src="https://raw.githubusercontent.com/markusvankempen/ThinkLab1239/master/images/thinkbg.jpg" width="20%" height="20%" > 
+   
+### LAB Setup Instructions
 
 ## Part 1
 
