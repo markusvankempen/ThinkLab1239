@@ -11,6 +11,10 @@ https://github.com/markusvankempen/ThinkLab1239/tree/master/node-red
 
 ## Part 2
 1. Create a WatsonStudio instance
-2. Import the Python-Notebook
+2. Import the Python-Notebook into WatsonStudio
+https://github.com/markusvankempen/ThinkLab1239/blob/master/note-books/ReadWeatherDataAndSendToNode-RED.ipynb
 - check if it works .... 
-4. Exercises: 
+3. Exercises: 
+4. Import the Connection-NodeRed flow
+....
+more
