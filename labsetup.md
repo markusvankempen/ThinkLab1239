@@ -9,6 +9,10 @@ https://weather.com/swagger-docs/call-for-code
 3. You may have to import the new node-red flow from here
 https://github.com/markusvankempen/ThinkLab1239/tree/master/node-red
 4. Exercises: 
+4.1 Setup you PWS/Sensor by adjusting the LABID, Lat/Lon TWC API key
+4.2 Go to Your instance UI ....thinklabs??.mybluemix.net/ui ... and select My PWS
+4.3 Make some adjustments in the node red-flow eg icon changes connect the 24 forcast ....
+
 
 ## Part 2
 1. Create a WatsonStudio instance
