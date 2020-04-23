@@ -1,6 +1,8 @@
 # ThinkLab1239
 IBM Think2020 IoT Lab - Hyper Localized Weather and Crop prediction using Watson
 
+<img src="https://raw.githubusercontent.com/markusvankempen/ThinkLab1239/master/images/think.gif" width="40%" height="40%" > 
+   
 Hyper Localized Weather and Crop Predictions Using IBM Watson ,IoT, Sensors and Personal Weather Stations/TWC API's [1239]
 Markus van Kempen, Executive Architect and VC, IBM
 
