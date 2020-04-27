@@ -4,7 +4,6 @@
 ## Prerequiste 
 1. Sign up for WatsonStudio account 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
-
 You will need this in the 2 PArt of the Lab 
 
 2. Sign up for Weather Company API Key
