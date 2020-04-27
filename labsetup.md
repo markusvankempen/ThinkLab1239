@@ -1,7 +1,7 @@
 
 ### LAB Setup Instructions
 
-## Prerequiste 
+## 1.1 Prerequisite 
 1. Sign up for WatsonStudio account 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
 You will need this in the 2 Part of the Lab 
