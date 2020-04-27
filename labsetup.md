@@ -2,17 +2,20 @@
 ### LAB Setup Instructions
 
 ## Prerequiste 
-1. Sign up for WatsonStudio. account 
-[go](https://dataplatform.cloud.ibm.com/registration/stepone){:target="_blank"}.
+1. Sign up for WatsonStudio account 
+https://dataplatform.cloud.ibm.com/registration/stepone
+
 You will need this in the 2 PArt of the Lab 
 
 2. Sign up for Weather Company API Key
 
-<a href="https://callforcode.weather.com/register" target="_blank2">Register</a>
+https://callforcode.weather.com/register
+
+
 We have key already the lab but just to be safe you should use your own
 
 3. Get your geo location or your city (Lat/Lon)
-[go](https://https://developer.mapquest.com/documentation/tools/latitude-longitude-finder/) {:target="_blank"}
+https://https://developer.mapquest.com/documentation/tools/latitude-longitude-finder/) {:target="_blank"}
 We will use this for to personalize your Weather Station Location 
 
 ### Note: 
