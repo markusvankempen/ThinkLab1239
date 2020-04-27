@@ -11,8 +11,8 @@ You will need this in the 2 Part of the Lab
 We have API keys already setup in the lab but just to be safe you should use your own.
 
 3. Get your geo location or your city (Lat/Lon)
-[Get your Location](https://https://developer.mapquest.com/documentation/tools/latitude-longitude-finder/) 
-We will use this for to personalize your Weather Station Location. Note down lat/lon
+[Get your Location](https://www.latlong.net/) 
+We will use this for to personalize your Weather Station Location. Note down latitude & longitude.
 
 ### Note: 
 Since we using VM box all our location would be the same based on the DataCenter location.
