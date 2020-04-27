@@ -4,7 +4,7 @@
 ## Prerequiste 
 1. Sign up for WatsonStudio account 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
-You will need this in the 2 PArt of the Lab 
+You will need this in the 2 Part of the Lab 
 
 2. Sign up for Weather Company API Key
 [TWC APIKey](https://callforcode.weather.com/register)
@@ -33,4 +33,12 @@ Detailed instruction and excerise can be found here.
 
 ## The LAB Part 2
 Part 2 is about Watson Studio using a Jupyter Notebook to Analyse the weather data.
-Please download this github and unzio
+Please download this github and unzip
+
+Sign up for WatsonStudio account 
+[Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
+
+Import the 1st Python Notebook
+
+mvk20200427
+
