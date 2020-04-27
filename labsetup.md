@@ -7,13 +7,16 @@
 You will need this in the 2 PArt of the Lab 
 
 2. Sign up for Weather Company API Key
-[go](https://callforcode.weather.com/register/){:target="_blank"}.
+
+<a href="https://callforcode.weather.com/register" target="_blank2">Register</a>
 We have key already the lab but just to be safe you should use your own
 
 3. Get your geo location or your city (Lat/Lon)
-[go](https://https://developer.mapquest.com/documentation/tools/latitude-longitude-finder/){:target="_blank"}.
+[go](https://https://developer.mapquest.com/documentation/tools/latitude-longitude-finder/) {:target="_blank"}
 We will use this for to personalize your Weather Station Location 
-### Note: Since we using VM box all our location would be the same based on the DataCenter location.
+
+### Note: 
+Since we using VM box all our location would be the same based on the DataCenter location.
 so please get your location before the lab using the link above.
 
 
