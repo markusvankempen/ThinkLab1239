@@ -29,16 +29,21 @@ You can request the LAB ID here once the LAB is opened.
 
 Detailed instruction and excerise can be found here.
 
-[Lab Instructions Part1](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartOne.pdf)
+[Lab Instructions Part 1](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartOne.pdf)
 
 ## The LAB Part 2
-Part 2 is about Watson Studio using a Jupyter Notebook to Analyse the weather data.
-Please download this github and unzip
+Part 2 is about Watson Studio using a Jupyter Notebook to Analyse the weather data and creating data queries to retieve the data into Node-RED and display it in a dashboard
 
 Sign up for WatsonStudio account 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
 
-Import the 1st Python Notebook
+[Lab Instructions Part 2](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartTwo.pdf)
 
-mvk20200427
+Download this this github and Import the WS-PartOne.ipynb Python Notebook
 
+## The LAB Part 3
+Part 3 is about Watson Studio a Jupyter Notebook to Predict the weather data using a SARIMAX model.
+
+
+
+version: mvk20200429
