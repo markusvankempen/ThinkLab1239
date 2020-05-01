@@ -1,3 +1,6 @@
+### Setup instructions are here 
+https://github.com/markusvankempen/ThinkLab1239/blob/master/labsetup.md
+
 # ThinkLab1239
 IBM Think2020 IoT Lab - Hyper Localized Weather and Crop prediction using Watson
 
