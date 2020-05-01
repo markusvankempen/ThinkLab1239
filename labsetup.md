@@ -39,7 +39,7 @@ Sign up for WatsonStudio account
 
 [Lab Instructions Part 2](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartTwo.pdf)
 
-Download this this github and Import the WS-PartOne.ipynb Python Notebook
+Download this this github and Import the WS1-...ipynb Python Notebook
 
 ## The LAB Part 3
 Part 3 is about Watson Studio with aJupyter Notebook to Predict the weather data using a SARIMAX model.
@@ -50,6 +50,7 @@ Sign up for WatsonStudio account
 
 [Lab Instructions Part 3](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartThree.pdf)
 
+Download this this github and Import the WS2-... .ipynb Python Notebook
 ## Extras
 
 Python - there is some python sdk code which you can use on your desktop at home to access the IoT Platform.
