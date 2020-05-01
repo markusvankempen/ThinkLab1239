@@ -42,8 +42,22 @@ Sign up for WatsonStudio account
 Download this this github and Import the WS-PartOne.ipynb Python Notebook
 
 ## The LAB Part 3
-Part 3 is about Watson Studio a Jupyter Notebook to Predict the weather data using a SARIMAX model.
+Part 3 is about Watson Studio with aJupyter Notebook to Predict the weather data using a SARIMAX model.
+We will use the data for the previouse exerise and create a seaonal prediction model. We will queries which we can trigger from node-red and display the forecast data in a dashboard.
+
+Sign up for WatsonStudio account 
+[Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
+
+[Lab Instructions Part 3](https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/Lab1239-PartThree.pdf)
+
+## Extras
+
+Python - there is some python sdk code which you can use on your desktop at home to access the IoT Platform.
+Watson Auto AI - you can use the clean weather data and Watson Auto AI to create/deploy a model which can be triggered via APIs. 
+
+THE END!
 
 
 
-version: mvk20200429
+
+version: mvk20200501
