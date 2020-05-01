@@ -15,7 +15,7 @@ We have API keys already set up in the lab but just to be safe you should use yo
 We will use this to personalize your Weather Station Location. Note down latitude & longitude.
 
 ### Note: 
-Since we are using VM box for this simulation (because of present circumstances) all our locations would be the same based on the DataCenter location. Please get your own location before the lab using the link above in order to personalize your results.
+Since we are using VM box for this simulation (because of present circumstances) all our locations would be the same based on the DataCenter location. In order to personalize your results, please get your own location before the lab using the link above.
 
 
 ## The LAB Part 1
