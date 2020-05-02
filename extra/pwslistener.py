@@ -13,8 +13,8 @@ myConfig = {
         "appId": "CHANGEME"
     },
     "auth": {
-        "key": "a-n8ve7d-qzetkpxh1d",
-        "token": "CM92*Wbsxad&V2Dxvn"
+        "key": "app key",
+        "token": "yourtoken"
     }
 }
 
