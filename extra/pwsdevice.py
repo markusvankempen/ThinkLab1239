@@ -8,8 +8,8 @@ authMethod = "token"
 # Initialize the device client.
 
 deviceOptions = {
-            "identity": {"orgId": "n8ve7d", "typeId": "pws", "deviceId": "pws42"},
-            "auth": {"token": "pws42pws42"},
+            "identity": {"orgId": "n8ve7d", "typeId": "pws", "deviceId": "pws??"},
+            "auth": {"token": "pws??pws??"},
 }
 
 
