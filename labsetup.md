@@ -3,14 +3,17 @@
 
 ## 1.1 Prerequisite 
 1. Sign up for WatsonStudio account 
+
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
 You will need this in the 2nd Part of the Lab 
 
-2. Sign up for Weather Company API Key (optional)
+2. Sign up for a Weather Company API Key (optional)
+
 [TWC APIKey](https://callforcode.weather.com/register)
 We have API keys already set up in the lab but just to be safe you should use your own.
 
 3. Get your geo location or your city (Lat/Lon)
+
 [Get your Location](https://www.latlong.net/) 
 We will use this to personalize your Weather Station Location. Note down latitude & longitude.
 
