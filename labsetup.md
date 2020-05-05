@@ -2,14 +2,17 @@
 ### LAB Setup Instructions
 
 ## 1.1 Prerequisite 
+
+take a look at the short traning video for the SkyTap
+
 1. Sign up for WatsonStudio account 
 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
-You will need this in the 2nd Part of the Lab 
+You will need this in the 2nd Part of the Lab. Use your desktop if you can not the VM.
 
-2. Sign up for a Weather Company API Key (optional)
+2. Sign up for a Weather Company API Key (optional) 
 
-[TWC APIKey](https://callforcode.weather.com/register)
+[TWC APIKey](https://callforcode.weather.com/register) 
 We have API keys already set up in the lab but just to be safe you should use your own.
 
 3. Get your geo location or your city (Lat/Lon)
