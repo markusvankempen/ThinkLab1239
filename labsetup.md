@@ -6,7 +6,7 @@
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
 You will need this in the 2nd Part of the Lab 
 
-2. Sign up for Weather Company API Key
+2. Sign up for Weather Company API Key (optional)
 [TWC APIKey](https://callforcode.weather.com/register)
 We have API keys already set up in the lab but just to be safe you should use your own.
 
