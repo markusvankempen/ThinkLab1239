@@ -3,7 +3,8 @@
 
 ## 1.1 Prerequisite 
 
-take a look at the short traning video for the SkyTap
+Take a look at the short traning video for the SkyTap Environment
+https://1.dam.s81c.com/m/45521165d8243538/original/TechU-2020-labs-Skytap-Tutorial_REMAKE_v2.mp4 
 
 1. Sign up for WatsonStudio account 
 
