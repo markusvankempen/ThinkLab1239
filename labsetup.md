@@ -3,13 +3,9 @@
 
 ## 1.1 Prerequisite 
 
-Take a look at the short traning video for the SkyTap Environment
+1. Take a look at the short traning video for the SkyTap Environment
+
 https://1.dam.s81c.com/m/45521165d8243538/original/TechU-2020-labs-Skytap-Tutorial_REMAKE_v2.mp4 
-
-1. Sign up for WatsonStudio account 
-
-[Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
-You will need this in the 2nd Part of the Lab. Use your desktop if you can not the VM.
 
 2. Sign up for a Weather Company API Key (optional) 
 
@@ -39,6 +35,8 @@ Detailed instruction and excecises can be found here.
 
 ## The LAB Part 2
 Part 2 is about Watson Studio using a Jupyter Notebook to analyse the weather data and create data queries to retrieve the data into Node-RED and display it in a dashboard
+
+Prerequisite 
 
 Sign up for WatsonStudio account 
 [Register for WatsonStudio](https://dataplatform.cloud.ibm.com/registration/stepone)
