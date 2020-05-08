@@ -3,29 +3,27 @@
 
 ## 1.1 Prerequisite 
 
-1. Take a look at the short traning video for the SkyTap Environment
-
-https://1.dam.s81c.com/m/45521165d8243538/original/TechU-2020-labs-Skytap-Tutorial_REMAKE_v2.mp4 
-
-2. Sign up for a Weather Company API Key (optional) 
+1. Sign up for a Weather Company API Key (optional) 
 
 [TWC APIKey](https://callforcode.weather.com/register) 
 We have API keys already set up in the lab but just to be safe you should use your own.
 
-3. Get your geo location or your city (Lat/Lon)
+2. Get your geo location or your city (Lat/Lon)
 
 [Get your Location](https://www.latlong.net/) 
 We will use this to personalize your Weather Station Location. Note down latitude & longitude.
 
-### Note: 
-Since we are using VM box for this simulation (because of present circumstances) all our locations would be the same based on the DataCenter location. In order to personalize your results, please get your own location before the lab using the link above.
+3. Think2020 is over but you can create this LAB yourself usinf the instructions here
 
+https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/NotPartofTheLab-SelfDeploymentAtHome.pdf
+
+Alternataively you can install Node-RED and Jupyter notebooks locally follow the instruction and excecises 
 
 ## The LAB Part 1
 Before the LAB starts we will go through some introductions and a walkthrough of the LAB and the excerises.
 You will set up your Node-RED instance with your API key and the Lat/Lon as well as your LAB ID.
 
-You can request the LAB ID here once the LAB is opened.
+You can request the LAB ID here once the LAB is opened - only during think2020
 
 [Claim your LAB ID](https://thinklab1239.mybluemix.net/claimid)
 
