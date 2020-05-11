@@ -13,7 +13,7 @@ We have API keys already set up in the lab but just to be safe you should use yo
 [Get your Location](https://www.latlong.net/) 
 We will use this to personalize your Weather Station Location. Note down latitude & longitude.
 
-3. Think2020 is over but you can create this LAB yourself usinf the instructions here
+3. Think2020 is over but you can create this LAB yourself using the instructions below
 
 https://github.com/markusvankempen/ThinkLab1239/blob/master/instructions/NotPartofTheLab-SelfDeploymentAtHome.pdf
 
