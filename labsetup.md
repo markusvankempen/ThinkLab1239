@@ -18,8 +18,7 @@ We will use this to personalize your Weather Station Location. Note down latitud
 You can still use the preconfigure Cloud Enviroments using/claiming your enviroment via 
 [Claim your LAB ID](https://thinklab1239.mybluemix.net/claimid)
 (See LAB Part 1 as well)
-
-####Note: These envirments are refresh every night so export your flows!
+#### Note: These envirments are refresh every night so export your flows!
 
 Or you can create your own IBM Cloud Instance/Envrioment using the instructions below
 
