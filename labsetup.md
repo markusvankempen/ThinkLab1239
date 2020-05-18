@@ -15,9 +15,9 @@ We will use this to personalize your Weather Station Location. Note down latitud
 
 3. Think2020 is over but you can create this LAB yourself 
 
-You can either still you the preconfigure Cloud Enveioments using/claiming you enviroment via 
+You can still use the preconfigure Cloud Enviroments using/claiming your enviroment via 
 [Claim your LAB ID](https://thinklab1239.mybluemix.net/claimid)
-
+(See LAB Part 1 as well)
 
 Or you can create your own IBM Cloud Instance/Envrioment using the instructions below
 
